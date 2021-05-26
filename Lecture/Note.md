@@ -16,6 +16,10 @@
   + **signal：**信号， can stop process early by send a **signal** .
   + **scheduler:** 调度程序，process is determined by the **scheduler**.
   + **cooperate:** some processes **cooperate** to give useful output.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 23c2c7da232d6727ce9ffb90e2c3dd6ef465993c
 + The child process starts its execution **at the location that** **fork()** **is returned**, *not from the beginning of the program*.
 
 ## Lecture4
